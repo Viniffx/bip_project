@@ -1,5 +1,7 @@
 # bip_project
 
+Bom dia!
+
 Estrutura principal de pastas do projeto Unity:
 
 ```text
